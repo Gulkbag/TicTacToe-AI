@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+
+td {
+    border: 5px solid rgb(82, 15, 15);
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Asap, cursive, sans-serif;
+    font-size: 70px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    position: absolute;
+    left: 50%;
+    margin-left: -155px;
+    top: 50px;
+}
+
+.endgame {
+    display: none;
+    border: 2px solid #333;
+    width: 200px;
+    top: 120px;
+    background-color: chartreuse;
+    position: absolute;
+    left: 50%;
+    margin-left: -95px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    border-radius: 5px;
+    color: #111111;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Asap, cursive, sans-serif;
+}
