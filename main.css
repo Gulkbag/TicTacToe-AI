@@ -28,7 +28,7 @@ table {
 button {
     cursor: pointer;
     background-color: slateblue;
-    color: #fff;
+    color: whitesmoke;
     border: 0;
     outline: 0;
     padding: 15px 30px;
@@ -38,6 +38,7 @@ button {
     position: absolute;
     left: 50%;
     margin-left: -140px;
+    font-size: 18px;
   }
 
 .endgame {
