@@ -27,7 +27,7 @@ table {
 
 button {
     cursor: pointer;
-    background-color: #333;
+    background-color: slateblue;
     color: #fff;
     border: 0;
     outline: 0;
@@ -42,7 +42,7 @@ button {
 
 .endgame {
     display: none;
-    border: 2px solid slateblue;
+    border: 2px solid #333;
     width: 200px;
     top: 120px;
     background-color: chartreuse;
