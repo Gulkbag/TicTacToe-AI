@@ -25,9 +25,24 @@ table {
     top: 50px;
 }
 
+button {
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    padding: 15px 30px;
+    width: 300px;
+    margin-top: 400px;
+    vertical-align: middle;
+    position: absolute;
+    left: 50%;
+    margin-left: -140px;
+  }
+
 .endgame {
     display: none;
-    border: 2px solid #333;
+    border: 2px solid slateblue;
     width: 200px;
     top: 120px;
     background-color: chartreuse;
